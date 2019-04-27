@@ -1,0 +1,10 @@
+**/.cpcache
+**/.rebel_readline_history
+**/.nrepl-port
+**/target/*/**
+**/log/*
+!**/target/*/.gitkeep
+
+# pack'd output
+/*.jar
+**/*.jar
